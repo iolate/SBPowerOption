@@ -1,0 +1,9 @@
+Package: kr.iolate.sbpoweroption
+Name: SBPowerOption
+Depends: mobilesubstrate, firmware (>= 9.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Add menu on power down view
+Maintainer: iolate <iolate@me.com>
+Author: iolate <iolate@me.com>
+Section: Tweaks
